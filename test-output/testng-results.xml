@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="18475" started-at="2016-07-17T12:46:04Z" finished-at="2016-07-17T12:46:23Z">
+  <suite name="Suite" duration-ms="17761" started-at="2016-07-18T12:33:46Z" finished-at="2016-07-18T12:34:03Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="18475" started-at="2016-07-17T12:46:04Z" finished-at="2016-07-17T12:46:23Z">
+    <test name="Test" duration-ms="17761" started-at="2016-07-18T12:33:46Z" finished-at="2016-07-18T12:34:03Z">
       <class name="hello.NewTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:hello.NewTest@7281205b]" name="setUp" is-config="true" duration-ms="9918" started-at="2016-07-17T20:46:04Z" finished-at="2016-07-17T20:46:14Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:hello.NewTest@cd7bef6]" name="setUp" is-config="true" duration-ms="9704" started-at="2016-07-18T20:33:46Z" finished-at="2016-07-18T20:33:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="g()[pri:0, instance:hello.NewTest@7281205b]" name="g" duration-ms="7839" started-at="2016-07-17T20:46:14Z" finished-at="2016-07-17T20:46:22Z">
+        <test-method status="PASS" signature="g()[pri:0, instance:hello.NewTest@cd7bef6]" name="g" duration-ms="7788" started-at="2016-07-18T20:33:55Z" finished-at="2016-07-18T20:34:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- g -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:hello.NewTest@7281205b]" name="tearDown" is-config="true" duration-ms="705" started-at="2016-07-17T20:46:22Z" finished-at="2016-07-17T20:46:23Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:hello.NewTest@cd7bef6]" name="tearDown" is-config="true" duration-ms="255" started-at="2016-07-18T20:34:03Z" finished-at="2016-07-18T20:34:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
